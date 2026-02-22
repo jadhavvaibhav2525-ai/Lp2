@@ -1,2 +1,1 @@
-# Lp2
-Lp2
+print="Hello"
